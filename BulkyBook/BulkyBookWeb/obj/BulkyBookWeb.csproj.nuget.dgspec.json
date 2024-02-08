@@ -1,39 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DSWD\\source\\repos\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Users\\LancePC\\Documents\\GitHub\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DSWD\\source\\repos\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "C:\\Users\\LancePC\\Documents\\GitHub\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSWD\\source\\repos\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\LancePC\\Documents\\GitHub\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\DSWD\\source\\repos\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
-        "packagesPath": "C:\\Users\\DSWD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSWD\\source\\repos\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "projectPath": "C:\\Users\\LancePC\\Documents\\GitHub\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "packagesPath": "C:\\Users\\LancePC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LancePC\\Documents\\GitHub\\BulkyBookTutorialsWithExplanation\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DSWD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\LancePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/KVDYyg9LcWHBgL5iOynEkG6DhiifeYfacoHvju8sWQU7bdPlhc/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
