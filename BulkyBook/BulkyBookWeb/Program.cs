@@ -1,11 +1,13 @@
 using BulkyBookWeb.Data;
 using Microsoft.EntityFrameworkCore;
+using MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<ApplicationDBContext>(options => options.UseSqlServer(
+builder.Services.AddMySqlDataSource(builder.Configuration.GetConnectionString("Default")!);
+builder.Services.AddDbContext<ApplicationDBContext>(options => options.UseMySQL(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
 builder.Services.AddRazorPages();

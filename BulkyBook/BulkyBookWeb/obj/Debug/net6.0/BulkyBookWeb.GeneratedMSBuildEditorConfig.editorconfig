@@ -9,57 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BulkyBookWeb
 build_property.RootNamespace = BulkyBookWeb
-build_property.ProjectDir = C:\Users\LancePC\Documents\GitHub\BulkyBookTutorialsWithExplanation\BulkyBook\BulkyBookWeb\
+build_property.ProjectDir = C:\Users\DSWD\source\repos\BulkyBookTutorialsWithExplanation\BulkyBook\BulkyBookWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\LancePC\Documents\GitHub\BulkyBookTutorialsWithExplanation\BulkyBook\BulkyBookWeb
+build_property.MSBuildProjectDirectory = C:\Users\DSWD\source\repos\BulkyBookTutorialsWithExplanation\BulkyBook\BulkyBookWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Create.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Delete.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Edit.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Index.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Home/Index.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Home/Privacy.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/Error.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/LibraryAssessments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUFzc2Vzc21lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/LibraryAssessments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUFzc2Vzc21lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/LibraryAssessments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUFzc2Vzc21lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/LibraryAssessments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUFzc2Vzc21lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/LibraryAssessments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUFzc2Vzc21lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/MasterLists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyTGlzdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/MasterLists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyTGlzdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/MasterLists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyTGlzdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/MasterLists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyTGlzdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/MasterLists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyTGlzdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/_Notification.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/_ViewImports.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/_ViewStart.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LancePC/Documents/GitHub/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/DSWD/source/repos/BulkyBookTutorialsWithExplanation/BulkyBook/BulkyBookWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xaq7ih10jw

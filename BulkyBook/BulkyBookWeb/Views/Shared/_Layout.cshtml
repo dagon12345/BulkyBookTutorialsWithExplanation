@@ -4,11 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - BulkyBookWeb</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/bootswatchTheme.css" asp-append-version="true" />
+     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> 
+    <link rel="stylesheet" href="~/css/bootswatchTheme.css" asp-append-version="true" /> 
     <link rel="stylesheet" href="~/BulkyBookWeb.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+  @*   <link rel="stylesheet" href="//cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css"> *@
+
 </head>
 <body>
     <header>
@@ -26,6 +28,12 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Category" asp-action="Index">Category</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="LibraryAssessments" asp-action="Index">Library Assessment</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="MasterLists" asp-action="Index">Master Lists</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -38,13 +46,14 @@
         </main>
     </div>
 
-    <footer class="footer text-muted bg-dark">
+   @*  <footer class="footer text-muted bg-dark">
         <div class="container">
             &copy; 2024 - BulkyBookWeb - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer> *@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
